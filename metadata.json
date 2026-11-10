@@ -1,0 +1,6 @@
+{
+  "name": "Thomas & Katharina | Hochzeit & RSVP Portal",
+  "description": "Moderne Hochzeits-Website für Thomas & Katharina am 18. August 2028 mit automatisiertem RSVP-Tracking, interaktiver Karte, Speisekarte, Fotogalerie und Gästebuch.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
